@@ -131,7 +131,7 @@ Use mensagens claras e descritivas:
 ## 📚 Referências
 
 - **Paper Original:** Chang et al. (2016) - [DOI:10.1016/j.biortech.2016.01.087](https://doi.org/10.1016/j.biortech.2016.01.087)
-- **Documentação:** Veja [CLAUDE.md](CLAUDE.md) para detalhes técnicos
+- **Documentação:** Veja [README.md](README.md) para detalhes técnicos
 - **Estilo:** Python PEP 8 (com foco em legibilidade)
 
 ## ❓ Dúvidas?
